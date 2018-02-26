@@ -400,7 +400,7 @@ def process_pipeline(image):
 
 ## Conclusion
 This is the computer vision algorithm pipeline for detecting lane lines on the road of an image. The algorithm is working on straight lane lines of both test images and video streams. 
-_Curve lane liens are byond the scope of this projet._
+_Curve lane liens are beyond the scope of this projet._
 
 License
 ----
